@@ -1,0 +1,22 @@
+{
+    "name": "petrnemec/nette-gcm",
+    "description": "Google Cloud Messaging for Nette Framework",
+    "type": "library",
+    "keywords": ["nette", "gcm", "push", "notification", "google", "messaging"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Petr Nemec"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Nemec\\Gcm\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "nette/di": ">=2.2",
+        "zendframework/zendservice-google-gcm": "1.*"
+    }
+}
