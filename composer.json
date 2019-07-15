@@ -1,5 +1,5 @@
 {
-    "name": "petrnemec/nette-gcm",
+    "name": "developers-iplato/nette-gcm",
     "description": "Google Cloud Messaging for Nette Framework",
     "type": "library",
     "keywords": ["nette", "gcm", "push", "notification", "google", "messaging"],
